@@ -6,6 +6,9 @@ Fully compatible with all MAME versions from 0.196
 
 Gingerbread Kong is added to the Atari 2600 Graphics Hack
   
+  
+![Screenshot](https://i.imgur.com/KWQDpQl.png)
+
 
 ## Installing and running
  
